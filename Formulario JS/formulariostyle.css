@@ -1,0 +1,16 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+h1, h2, table {
+    text-align: center;
+}
+
+.formulario, .lista, .table {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
